@@ -5,7 +5,7 @@
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
-download : [Download](app-release.apk)
+App Link : [Download](https://github.com/vancityAyush/bitcoin-ticker-flutter/raw/master/app-release.apk)
 
 ## What you will create
 
